@@ -1,0 +1,2 @@
+2025-06-11 15:56:41 - Usuario: 1, Acción: seguir, Seguido: 3
+  - Seguimiento creado con seguidor_id
